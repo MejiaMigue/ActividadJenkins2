@@ -4,7 +4,7 @@
          version="2.5">
     <servlet>
         <servlet-name>HolaMundoServlet</servlet-name>
-        <servlet-class>com.ejemplo.HolaMundoServlet</servlet-class>
+        <servlet-class>com.example.HolaMundoServlet</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>HolaMundoServlet</servlet-name>
